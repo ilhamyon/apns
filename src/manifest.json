@@ -1,0 +1,10 @@
+{
+    "website.json": {
+        "hashType": "sha512",
+        "hashValue": "4309a0cf6ee37909423fb4f5f762eb530d4a7cfe9e1d30b9c85b602afb9296a508f5df00c6f63439e4dcc4484aae4cd77d1f632678ece0ef1b62ca6c9cbdebb3"
+    },
+    "icon.iconset/icon_16x16.png": {
+        "hashType": "sha512",
+        "hashValue": "8bb462e25ca79cca241355f5ae97ffab352acf7d2a0390f6547f1d0a55ade59e01e725bea70778ad2822b1ec137a8c0547197727ae2e9fed620b0d3ddea6803b"
+    }
+}
